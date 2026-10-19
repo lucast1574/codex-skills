@@ -1,0 +1,3 @@
+interface:
+  display_name: "Imagen a vector"
+  short_description: "Convierte logos e ilustraciones a SVG editable"

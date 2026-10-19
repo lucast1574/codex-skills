@@ -1,0 +1,520 @@
+{
+  "snapshot_date": "2026-10-19",
+  "repository": "lucast1574/codex-skills",
+  "skills": [
+    {
+      "name": "brandkit",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/brandkit",
+      "files": 1,
+      "sanitized_files": []
+    },
+    {
+      "name": "frontend-design",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/frontend-design",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "imagen-a-vector",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/imagen-a-vector",
+      "files": 3,
+      "sanitized_files": []
+    },
+    {
+      "name": "interface-design",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/interface-design",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "leasy-atlas-rules",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/leasy-atlas-rules",
+      "files": 5,
+      "sanitized_files": [
+        "references/atlas-rules.md"
+      ]
+    },
+    {
+      "name": "modular-ui",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/modular-ui",
+      "files": 4,
+      "sanitized_files": []
+    },
+    {
+      "name": "motion-graphics",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/motion-graphics",
+      "files": 4,
+      "sanitized_files": []
+    },
+    {
+      "name": "resumen-continuidad",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/resumen-continuidad",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "seo-audit",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/seo-audit",
+      "files": 9,
+      "sanitized_files": []
+    },
+    {
+      "name": "validacion-proyecto",
+      "group": "personal",
+      "origin": "Instalada por Lucas",
+      "path": "skills/validacion-proyecto",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "imagegen",
+      "group": "system",
+      "origin": "Codex integrado",
+      "path": "snapshots/system/imagegen",
+      "files": 12,
+      "sanitized_files": []
+    },
+    {
+      "name": "openai-docs",
+      "group": "system",
+      "origin": "Codex integrado",
+      "path": "snapshots/system/openai-docs",
+      "files": 17,
+      "sanitized_files": []
+    },
+    {
+      "name": "review-agent",
+      "group": "system",
+      "origin": "Codex integrado",
+      "path": "snapshots/system/review-agent",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "skill-creator",
+      "group": "system",
+      "origin": "Codex integrado",
+      "path": "snapshots/system/skill-creator",
+      "files": 9,
+      "sanitized_files": []
+    },
+    {
+      "name": "skill-installer",
+      "group": "system",
+      "origin": "Codex integrado",
+      "path": "snapshots/system/skill-installer",
+      "files": 8,
+      "sanitized_files": []
+    },
+    {
+      "name": "nexode-deploy",
+      "group": "plugins",
+      "origin": "nexode/nexode-mcp@0.1.19",
+      "path": "snapshots/plugins/nexode-mcp/nexode-deploy",
+      "files": 4,
+      "sanitized_files": []
+    },
+    {
+      "name": "visualize",
+      "group": "plugins",
+      "origin": "openai-bundled/visualize@1.0.49",
+      "path": "snapshots/plugins/visualize/visualize",
+      "files": 13,
+      "sanitized_files": []
+    },
+    {
+      "name": "google-docs",
+      "group": "plugins",
+      "origin": "openai-curated-remote/google-drive@0.1.22",
+      "path": "snapshots/plugins/google-drive/google-docs",
+      "files": 24,
+      "sanitized_files": []
+    },
+    {
+      "name": "google-drive",
+      "group": "plugins",
+      "origin": "openai-curated-remote/google-drive@0.1.22",
+      "path": "snapshots/plugins/google-drive/google-drive",
+      "files": 10,
+      "sanitized_files": []
+    },
+    {
+      "name": "google-drive-comments",
+      "group": "plugins",
+      "origin": "openai-curated-remote/google-drive@0.1.22",
+      "path": "snapshots/plugins/google-drive/google-drive-comments",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "google-sheets",
+      "group": "plugins",
+      "origin": "openai-curated-remote/google-drive@0.1.22",
+      "path": "snapshots/plugins/google-drive/google-sheets",
+      "files": 13,
+      "sanitized_files": []
+    },
+    {
+      "name": "google-slides",
+      "group": "plugins",
+      "origin": "openai-curated-remote/google-drive@0.1.22",
+      "path": "snapshots/plugins/google-drive/google-slides",
+      "files": 16,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-analytics-dashboard",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-analytics-dashboard",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-annual-impact-report",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-annual-impact-report",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-brand-guidelines",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-brand-guidelines",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-business-review",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-business-review",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-calder-architecture",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-calder-architecture",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-creative-campaign-brief",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-creative-campaign-brief",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-design-report",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-design-report",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-experiment-analysis",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-experiment-analysis",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-financial-budget",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-financial-budget",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-growth-strategy",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-growth-strategy",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-investment-committee-memo",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-investment-committee-memo",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-legal-memorandum",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-legal-memorandum",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-market-trends-report",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-market-trends-report",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-minimal-letterhead",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-minimal-letterhead",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-next-generation-os",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-next-generation-os",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-operating-calendar",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-operating-calendar",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-photography-portfolio",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-photography-portfolio",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-product-pitch",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-product-pitch",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-product-strategy",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-product-strategy",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-project-kickoff",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-project-kickoff",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-project-tracker",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-project-tracker",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-sales-pipeline",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-sales-pipeline",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-state-of-art",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-state-of-art",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-strategy-memorandum",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-strategy-memorandum",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-system-design",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-system-design",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-three-statement-forecast",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-three-statement-forecast",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "artifact-template-weekly-business-review",
+      "group": "templates",
+      "origin": "openai-curated-remote/openai-templates@0.1.6",
+      "path": "snapshots/templates/openai-templates/artifact-template-weekly-business-review",
+      "files": 6,
+      "sanitized_files": []
+    },
+    {
+      "name": "maintain-space",
+      "group": "plugins",
+      "origin": "openai-curated-remote/pages@0.1.23",
+      "path": "snapshots/plugins/pages/maintain-space",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "manage-schedules",
+      "group": "plugins",
+      "origin": "openai-curated-remote/pages@0.1.23",
+      "path": "snapshots/plugins/pages/manage-schedules",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "organize-space",
+      "group": "plugins",
+      "origin": "openai-curated-remote/pages@0.1.23",
+      "path": "snapshots/plugins/pages/organize-space",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "write-page",
+      "group": "plugins",
+      "origin": "openai-curated-remote/pages@0.1.23",
+      "path": "snapshots/plugins/pages/write-page",
+      "files": 5,
+      "sanitized_files": []
+    },
+    {
+      "name": "plugin-management",
+      "group": "plugins",
+      "origin": "openai-curated-remote/plugin-management@0.1.0",
+      "path": "snapshots/plugins/plugin-management/plugin-management",
+      "files": 1,
+      "sanitized_files": []
+    },
+    {
+      "name": "sites",
+      "group": "plugins",
+      "origin": "openai-curated-remote/sites@1.0.0",
+      "path": "snapshots/plugins/sites/sites",
+      "files": 136,
+      "sanitized_files": []
+    },
+    {
+      "name": "create-pet",
+      "group": "plugins",
+      "origin": "openai-curated-remote/work-pets@0.1.6",
+      "path": "snapshots/plugins/work-pets/create-pet",
+      "files": 21,
+      "sanitized_files": []
+    },
+    {
+      "name": "pets",
+      "group": "plugins",
+      "origin": "openai-curated-remote/work-pets@0.1.6",
+      "path": "snapshots/plugins/work-pets/pets",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "update-pet",
+      "group": "plugins",
+      "origin": "openai-curated-remote/work-pets@0.1.6",
+      "path": "snapshots/plugins/work-pets/update-pet",
+      "files": 2,
+      "sanitized_files": []
+    },
+    {
+      "name": "documents",
+      "group": "plugins",
+      "origin": "openai-primary-runtime/documents@26.1015.12040",
+      "path": "snapshots/plugins/documents/documents",
+      "files": 80,
+      "sanitized_files": []
+    },
+    {
+      "name": "pdf",
+      "group": "plugins",
+      "origin": "openai-primary-runtime/pdf@26.1015.12040",
+      "path": "snapshots/plugins/pdf/pdf",
+      "files": 4,
+      "sanitized_files": []
+    },
+    {
+      "name": "presentations",
+      "group": "plugins",
+      "origin": "openai-primary-runtime/presentations@26.1015.12040",
+      "path": "snapshots/plugins/presentations/presentations",
+      "files": 60,
+      "sanitized_files": []
+    },
+    {
+      "name": "excel-live-control",
+      "group": "plugins",
+      "origin": "openai-primary-runtime/spreadsheets@26.1015.12040",
+      "path": "snapshots/plugins/spreadsheets/excel-live-control",
+      "files": 13,
+      "sanitized_files": []
+    },
+    {
+      "name": "spreadsheets",
+      "group": "plugins",
+      "origin": "openai-primary-runtime/spreadsheets@26.1015.12040",
+      "path": "snapshots/plugins/spreadsheets/spreadsheets",
+      "files": 19,
+      "sanitized_files": []
+    },
+    {
+      "name": "template-creator",
+      "group": "plugins",
+      "origin": "openai-primary-runtime/template-creator@26.1015.12040",
+      "path": "snapshots/plugins/template-creator/template-creator",
+      "files": 6,
+      "sanitized_files": []
+    }
+  ]
+}

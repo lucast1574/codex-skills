@@ -1,0 +1,3 @@
+interface:
+  display_name: "Resumen de continuidad"
+  short_description: "Retoma tareas con contexto breve y verificable"
